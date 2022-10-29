@@ -137,7 +137,7 @@ end
 --assassin
 
 if game.PlaceId == 379614936 then
-loadstring(game:HttpGet("https://pastebin.com/raw/RQEsPb31", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/PNA8cLHH", true))()
 end
 
 -- pls donate
