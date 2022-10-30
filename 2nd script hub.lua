@@ -11,6 +11,13 @@ end
 if game.PlaceId == 205224386 then
 pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)
 end
+
+-- natural disaster survival
+
+if game.PlaceId == 189707 then
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))()
+end
+
 --phantom forces 2
 
 if game.PlaceId == 292439477 then
