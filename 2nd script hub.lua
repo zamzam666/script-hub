@@ -12,7 +12,7 @@ if game.PlaceId == 205224386 then
 pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))() end)
 end
 
--- natural disaster survival
+-- natural disaster survival (dark ware)
 
 if game.PlaceId == 189707 then
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))()
