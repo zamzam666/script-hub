@@ -18,6 +18,12 @@ if game.PlaceId == 189707 then
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))()
 end
 
+-- project delta 
+
+if game.PlaceId == 7336302630 then
+loadstring(game:HttpGet("https://pastebin.com/raw/Kp3JyYgT"))()
+end
+
 --phantom forces 2
 
 if game.PlaceId == 292439477 then
