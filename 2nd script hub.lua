@@ -1,3 +1,13 @@
+-- hide n seek extreme
+
+if game.PlaceId == 205224386 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source", true))()
+end
+
+if game.PlaceId == 205224386 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end
+
 --phantom forces 2
 
 if game.PlaceId == 292439477 then
