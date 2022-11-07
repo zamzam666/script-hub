@@ -18,6 +18,12 @@ if game.PlaceId == 189707 then
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yarik312/DarkWare/main/MainLoader"), true))()
 end
 
+-- blox fruits
+
+if game.PlaceId == 2753915549 then
+loadstring(game:HttpGet("https://textbin.net/raw/gopsjr6vcu"))()
+end
+
 -- project delta 
 
 if game.PlaceId == 7336302630 then
